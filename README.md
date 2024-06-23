@@ -1,0 +1,1 @@
+Hi everyone, this is my Research Methodology Project for my 2nd half of my second year in my university journey. It's not perfect, but feel free to take the codes and make future adjustments to it( for me to learn as well :) ).
